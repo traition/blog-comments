@@ -1,2 +1,2 @@
-# blog-comments
-Personal Obsidian Vault, Only zh_CN.
+# blog-comment
+giscus repo only.
